@@ -1,0 +1,435 @@
+preparing to sync LDP_DH api-gateway-datahub...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub-mysql-for-api...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub-mysqlclinet...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_alarm...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_api_gateway...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_api_server...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_api_specification...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_backlog...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_bill...
+Fetching origin
+remote: Repository not found.
+fatal: repository 'https://github.com/asiainfoLDP/datahub_bill/' not found
+error: Could not fetch origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_comments...
+Fetching origin
+remote: Repository not found.
+fatal: repository 'https://github.com/asiainfoLDP/datahub_comments/' not found
+error: Could not fetch origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_commons...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_custom...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_docs...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_documentation...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_documents...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_filebackup...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_find_similiars...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_heartbeat...
+Fetching origin
+remote: Repository not found.
+fatal: repository 'https://github.com/asiainfoLDP/datahub_heartbeat/' not found
+error: Could not fetch origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_kafka...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_messages...
+Fetching origin
+remote: Repository not found.
+fatal: repository 'https://github.com/asiainfoLDP/datahub_messages/' not found
+error: Could not fetch origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_product_yaml...
+Fetching origin
+remote: Repository not found.
+fatal: repository 'https://github.com/asiainfoLDP/datahub_product_yaml/' not found
+error: Could not fetch origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_repository...
+Fetching origin
+remote: Repository not found.
+fatal: repository 'https://github.com/asiainfoLDP/datahub_repository/' not found
+error: Could not fetch origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_service_discovery...
+Fetching origin
+remote: Repository not found.
+fatal: repository 'https://github.com/asiainfoLDP/datahub_service_discovery/' not found
+error: Could not fetch origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_stars...
+Fetching origin
+remote: Repository not found.
+fatal: repository 'https://github.com/asiainfoLDP/datahub_stars/' not found
+error: Could not fetch origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_subscriptions...
+Fetching origin
+remote: Repository not found.
+fatal: repository 'https://github.com/asiainfoLDP/datahub_subscriptions/' not found
+error: Could not fetch origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_synchro...
+Fetching origin
+remote: Repository not found.
+fatal: repository 'https://github.com/asiainfoLDP/datahub_synchro/' not found
+error: Could not fetch origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_user...
+Fetching origin
+remote: Repository not found.
+fatal: repository 'https://github.com/asiainfoLDP/datahub_user/' not found
+error: Could not fetch origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_web...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_web_admin...
+Fetching origin
+remote: Repository not found.
+fatal: repository 'https://github.com/asiainfoLDP/datahub_web_admin/' not found
+error: Could not fetch origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_web_new...
+Fetching origin
+remote: Repository not found.
+fatal: repository 'https://github.com/asiainfoLDP/datahub_web_new/' not found
+error: Could not fetch origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_wordpress...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH LdpApiCreditServer...
+Fetching origin
+remote: Repository not found.
+fatal: repository 'https://github.com/asiainfoLDP/LdpApiCreditServer/' not found
+error: Could not fetch origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH LdpApiGateWay...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH LdpApiLocationServer...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH LdpApiRtbServer...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH WEBCLI-DAEMON...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH gz_docs...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH webBroadcast...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_swagger...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH front-end-coding-guide...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF apache-nifi-ocrhestration...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF datahub_servicebroker...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF cassandra-openshift-orchestration...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF custom-docker-builder...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF datafactory...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF datafactory-rds-broker...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF datafactory-servicebroker-mysql...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF datafactory-stepbystep...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF datafoundry-gitter...
+Fetching origin
+From https://github.com/asiainfoLDP/datafoundry-gitter
+   a593ea7..6d976a5  develop    -> develop
+Everything up-to-date
+To http://10.1.236.101:9700/LDP_DF/datafoundry-gitter.git
+   a593ea7..6d976a5  develop -> develop
+preparing to sync LDP_DF datafoundry-troubleshooting...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF datafoundry_backlog...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF datafoundry_oauth2...
+Fetching origin
+remote: Repository not found.
+fatal: repository 'https://github.com/asiainfoLDP/datafoundry_oauth2/' not found
+error: Could not fetch origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF datafoundry_proxy...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF datafoundry_servicebroker_go...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF datafoundry_servicebroker_hadoop...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF datafoundry_servicebroker_marathon...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF datafoundry_servicebroker_mysql...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF datafoundry_servicebroker_ocdp...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF datafoundry_servicebroker_openshift...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF datafoundry_servicebroker_redis...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF datafoundry_web...
+Fetching origin
+From https://github.com/asiainfoLDP/datafoundry_web
+   cf1b367..5a31142  develop    -> develop
+   0937ab0..b9876d8  feature/jsx12feature -> feature/jsx12feature
+   8d4c0fa..a8c1c90  feature/jtfeature -> feature/jtfeature
+ * [new branch]      lixwlixw-patch-1 -> lixwlixw-patch-1
+ * [new ref]         refs/pull/495/head -> refs/pull/495/head
+ * [new ref]         refs/pull/496/head -> refs/pull/496/head
+ * [new ref]         refs/pull/496/merge -> refs/pull/496/merge
+ * [new ref]         refs/pull/497/head -> refs/pull/497/head
+Everything up-to-date
+To http://10.1.236.101:9700/LDP_DF/datafoundry_web.git
+   cf1b367..5a31142  develop -> develop
+   0937ab0..b9876d8  feature/jsx12feature -> feature/jsx12feature
+   8d4c0fa..a8c1c90  feature/jtfeature -> feature/jtfeature
+ * [new branch]      lixwlixw-patch-1 -> lixwlixw-patch-1
+preparing to sync LDP_DF data_resource_planning...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF etcd-openshift-orchestration...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF gitbook-server...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF harbor...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF helloworld...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF kafka-openshift-orchestration...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF kettle-service-ocrhestration...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF kubernetes...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF meta-azure-service-broker...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF openshift-orchestration...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF phpRedisAdmin-openshift-orchestration...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF rabbitmq-openshift-orchestration...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF redis-openshift-orchestration...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF spark-openshift-orchestration...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF storm-openshift-orchestration...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF tensorflow-playground...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF wordpress...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF zookeeper-exhibitor-openshift-orchestration...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF zookeeper-openshift-orchestration...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF datafoundry_serviceusage...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF datafoundry_payment...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF datafoundry_recharge...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF datafoundry_aipay...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF datafoundry_ocdp_hive_demo...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF datafoundry_data_integration...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF datafoundry_data_instance...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF datafoundry_coupon...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF datafoundry_appmarket...
+Fetching origin
+From https://github.com/asiainfoLDP/datafoundry_appmarket
+ * branch            HEAD       -> FETCH_HEAD
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF datafoundry_plan...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF datafoundry_volume...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF datafoundry_volume_management...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
